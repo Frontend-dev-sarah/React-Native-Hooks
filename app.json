@@ -1,0 +1,12 @@
+{
+  "name": "PHIOU",
+  "displayName": "PHIOU",
+  "expo": {
+    "name": "PHIOU",
+    "slug": "PHIOU",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
