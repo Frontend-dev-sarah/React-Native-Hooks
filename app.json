@@ -1,9 +1,9 @@
 {
-  "name": "PHIOU",
-  "displayName": "PHIOU",
+  "name": "React Native Scratch",
+  "displayName": "React Native Scratch",
   "expo": {
-    "name": "PHIOU",
-    "slug": "PHIOU",
+    "name": "React Native Scratch",
+    "slug": "React Native Scratch",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
